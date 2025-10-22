@@ -1,5 +1,5 @@
 Обновленная схема архитектуры:
-[BionicPRO_C4_model.drawio.xml](BionicPRO_C4_model.drawio.xml)
+[BionicPRO_C4_model.drawio](BionicPRO_C4_model.drawio)
 
 Новые компоненты и их роль:
 1) Ключевым сервисом обновленного архитектурного решения будет API gateway, этот компонент выполняет роль
